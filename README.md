@@ -115,7 +115,7 @@ following:
   <td>718-555-1212</td>
   <td>Guacamole</td>
 </tr>
-```
+
 
 As long as each bit of data in a `<td>` is in the _same position_ as the
 corresponding `<th>` in the first row, it will show up in that column.
